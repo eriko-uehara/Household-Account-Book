@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>CalcKeyboard.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>tabBarApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>6184A80F1C19E0750033DD48</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>61C63E551C3BB681007D1199</key>
 		<dict>
 			<key>primary</key>
 			<true/>
